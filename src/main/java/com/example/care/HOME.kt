@@ -9,13 +9,18 @@ import androidx.core.view.GravityCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
+import com.example.care.databinding.HomeActivityBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import kotlinx.android.synthetic.main.home_activity.*
 
 class HOME : AppCompatActivity() {
+
+    private lateinit var binding: HomeActivityBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.home_activity)
+        binding = HomeActivityBinding.inflate(layoutInflater)
+        setContentView(binding.root)
         btm_nav.setOnNavigationItemSelectedListener(itm_slct)
         replacefragment(Navigation ())
         setSupportActionBar(tool_bar)

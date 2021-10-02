@@ -25,6 +25,7 @@
         <activity android:name=".Selection"/>
         <activity android:name=".Guest_Login"/>
         <activity android:name=".Sign_Up"/>
+        <activity android:name=".Edit_Profile"/>
 
         <meta-data
             android:name="preloaded_fonts"
