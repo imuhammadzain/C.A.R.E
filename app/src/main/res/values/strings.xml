@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C.A.R.E</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Drawer_Open">Drawer Open</string>
+    <string name="Drawer_Close">Drawer Close</string>
+    <string name="Drawer">Configuration</string>
+</resources>

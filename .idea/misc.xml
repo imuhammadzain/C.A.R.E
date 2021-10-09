@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CARE/app/src/main/res/drawable/buttons.xml" value="0.22552083333333334" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/custom_email_ic.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/custom_input.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/custom_name_ic.xml" value="0.1125" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/custom_pass_ic.xml" value="0.18055555555555555" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/custom_phone_ic.xml" value="0.1125" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_baseline_qr_code_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_mail.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_mail_focus.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_name.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_name_focus.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_pass.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_pass_focus.xml" value="0.18055555555555555" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_phone.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/drawable/ic_phone_focus.xml" value="0.14537037037037037" />
+        <entry key="..\:/CARE/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/CARE/app/src/main/res/layout/contact_us.xml" value="0.2006340579710145" />
+        <entry key="..\:/CARE/app/src/main/res/layout/edit_profile.xml" value="0.22" />
+        <entry key="..\:/CARE/app/src/main/res/layout/faqs.xml" value="0.2006340579710145" />
+        <entry key="..\:/CARE/app/src/main/res/layout/feedback.xml" value="0.2006340579710145" />
+        <entry key="..\:/CARE/app/src/main/res/layout/fragment_blank.xml" value="0.2" />
+        <entry key="..\:/CARE/app/src/main/res/layout/guest_login_activity.xml" value="0.25" />
+        <entry key="..\:/CARE/app/src/main/res/layout/home_activity.xml" value="0.1" />
+        <entry key="..\:/CARE/app/src/main/res/layout/login_activity.xml" value="0.33" />
+        <entry key="..\:/CARE/app/src/main/res/layout/navigation.xml" value="0.20462962962962963" />
+        <entry key="..\:/CARE/app/src/main/res/layout/profile.xml" value="0.22" />
+        <entry key="..\:/CARE/app/src/main/res/layout/qr.xml" value="0.12" />
+        <entry key="..\:/CARE/app/src/main/res/layout/report_problems.xml" value="0.2006340579710145" />
+        <entry key="..\:/CARE/app/src/main/res/layout/search.xml" value="0.18981481481481483" />
+        <entry key="..\:/CARE/app/src/main/res/layout/selection.xml" value="0.22" />
+        <entry key="..\:/CARE/app/src/main/res/layout/sign_up.xml" value="0.209375" />
+        <entry key="..\:/CARE/app/src/main/res/layout/signup_activity.xml" value="0.209375" />
+        <entry key="..\:/CARE/app/src/main/res/layout/start_activity.xml" value="0.209375" />
+        <entry key="..\:/CARE/app/src/main/res/menu/drawer_nav.xml" value="0.209375" />
+        <entry key="..\:/CARE/app/src/main/res/menu/menu_nav.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
